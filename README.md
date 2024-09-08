@@ -25,16 +25,16 @@ CodePraise is a tool for analyzing the code quality of GitHub repositories. It c
 
 ### Run the main program
 
-rake run:dev
+`rake run:dev`
 
 ### Run single repository analysis
 
-rake run:single
+`rake run:single`
 
 ### Export data
 
-rake export:data
+`rake export:data`
 
 ### Get issues
 
-rake get_issue
+`rake get_issue`
